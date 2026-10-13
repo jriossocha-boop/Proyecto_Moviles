@@ -1,4 +1,4 @@
-# CARTAS DE CAOS MUSICAL - TALLER PRÁCTICO FLUTTER:
+# CARTAS DE CAOS MUSICAL
 
 ## DESCRIPCIÓN:
 Aplicación móvil desarrollada con Flutter y Dart que funciona como un juego interactivo para fiestas. El proyecto consume la API de Deezer para reproducir fragmentos de 10 segundos de canciones, integrando temporizadores, manejo de estado y reproducción de audio sin requerir un backend propio.
