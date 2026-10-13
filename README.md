@@ -25,6 +25,6 @@ lib/
 
 ## EJECUCIÓN DEL PROYECTO:
 1. Clonar el repositorio.
-2. Abrir la terminal en la raíz del proyecto y ejecutar flutter pub get para instalar dependencias (http, just_audio).
+2. Abrir la terminal en la raíz del proyecto y ejecutar `flutter pub get` para instalar dependencias (`http`, `just_audio`).
 3. Iniciar un emulador o conectar un dispositivo físico con acceso a internet.
-4. Ejecutar la aplicación con flutter run.
+4. Ejecutar la aplicación con `flutter run`.
